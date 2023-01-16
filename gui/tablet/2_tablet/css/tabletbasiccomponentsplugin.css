@@ -1,0 +1,515 @@
+/* screen - tabletbasiccomponentsplugin */
+
+.tabletbasiccomponentsplugin {
+  background-color: var(--white);
+  height: 1976px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletbasiccomponentsplugin .group-6-BYhzE8 {
+  background-color: transparent;
+  height: 538px;
+  left: 419px;
+  position: absolute;
+  top: 1238px;
+  width: 720px;
+}
+
+.tabletbasiccomponentsplugin .group-5-BYhzE8 {
+  background-color: transparent;
+  height: 783px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.tabletbasiccomponentsplugin .group-12-BYhzE8 {
+  background-color: transparent;
+  height: 162px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.tabletbasiccomponentsplugin .group-11-VZ7POg {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tabletbasiccomponentsplugin .table-guide-text1line-jTcfl4 {
+  left: 0px;
+  width: 50px;
+}
+
+.tabletbasiccomponentsplugin .table-guide-text1line_mint-jTcfl4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 59px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletbasiccomponentsplugin .table-guide-text1line-DCQDqc {
+  left: 410px;
+  width: 270px;
+}
+
+.tabletbasiccomponentsplugin .group-10-VZ7POg {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 125px;
+  width: 680px;
+}
+
+.tabletbasiccomponentsplugin .table-guide-text1line-copy-8-j6j6es {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletbasiccomponentsplugin .table-guide-text1line_mint-copy-j6j6es {
+  background-color: transparent;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletbasiccomponentsplugin .table-guide-text1line-copy-9-j6j6es {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletbasiccomponentsplugin .table-guide-title-VZ7POg {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.tabletbasiccomponentsplugin .group-9-BYhzE8 {
+  background-color: transparent;
+  height: 162px;
+  left: 1140px;
+  position: absolute;
+  top: 1238px;
+  width: 680px;
+}
+
+.tabletbasiccomponentsplugin .group-7-vE4LWz {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tabletbasiccomponentsplugin .table-guide-text1line-copy-10-SWxTf4 {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletbasiccomponentsplugin .table-guide-text1line-copy-SWxTf4 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletbasiccomponentsplugin .table-guide-text1line_mint-copy-3-SWxTf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 59px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletbasiccomponentsplugin .group-8-vE4LWz {
+  background-color: transparent;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 125px;
+  width: 620px;
+}
+
+.tabletbasiccomponentsplugin .table-guide-text1line_mint-copy-2-AqKOFP {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletbasiccomponentsplugin .table-guide-text1line-copy-11-AqKOFP {
+  background-color: transparent;
+  height: 37px;
+  left: 350px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletbasiccomponentsplugin .table-guide-title-copy-vE4LWz {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.tabletbasiccomponentsplugin .web-sub_-title-BYhzE8 {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.tabletbasiccomponentsplugin .web-title-area-BYhzE8 {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.tabletbasiccomponentsplugin .lnb-service-feature-BYhzE8 {
+  background-color: transparent;
+  height: 983px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletbasiccomponentsplugin .rectangle-9g7DmL {
+  background-color: var(--concrete);
+  height: 983px;
+  width: 320px;
+}
+
+.tabletbasiccomponentsplugin .line-9g7DmL {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.tabletbasiccomponentsplugin .home-net-gui-guidelin-9g7DmL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup6 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup6 .web-index-title-reference-copy-2-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .group-zm0cTg {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-title-reference-copy-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .group-copy-zm0cTg {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-title-reference-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .group-copy-2-zm0cTg {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-title-reference-copy-3-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-contents2dpeth-copy-3-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-contents2dpeth-copy-2-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-contents2dpeth-copy-8-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-contents2dpeth-copy-7-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-contents2dpeth-copy-9-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-contents2dpeth-copy-10-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-contents2dpeth-copy-11-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-contents2dpeth-copy-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-contents2dpeth-copy-4-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-contents2dpeth-copy-5-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-contents2dpeth-copy-6-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.tabletbasiccomponentsplugin .webgnb-BYhzE8 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletbasiccomponentsplugin .rectangle-SeJVBD {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.tabletbasiccomponentsplugin .background-SeJVBD {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletbasiccomponentsplugin .index-SeJVBD {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.tabletbasiccomponentsplugin .web-index-select-7FowNn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.tabletbasiccomponentsplugin .web-index-unselect-7FowNn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.tabletbasiccomponentsplugin .web-index-unelect_main-SeJVBD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletbasiccomponentsplugin .logo-Yml0GG {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletbasiccomponentsplugin .table-guide-text1line {
+  background-color: transparent;
+  height: 37px;
+  position: absolute;
+  top: 0px;
+}

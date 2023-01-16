@@ -1,0 +1,537 @@
+/* screen - tabletbasiccomponentspopoverlist */
+
+.tabletbasiccomponentspopoverlist {
+  background-color: var(--white);
+  height: 2378px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletbasiccomponentspopoverlist .group-22-5gNfw5 {
+  background-color: transparent;
+  height: 732px;
+  left: 380px;
+  position: absolute;
+  top: 1102px;
+  width: 1440px;
+}
+
+.tabletbasiccomponentspopoverlist .group-11-5gNfw5 {
+  background-color: transparent;
+  height: 194px;
+  left: 380px;
+  position: absolute;
+  top: 1984px;
+  width: 710px;
+}
+
+.tabletbasiccomponentspopoverlist .group-19-5gNfw5 {
+  background-color: transparent;
+  height: 470px;
+  left: 362px;
+  position: absolute;
+  top: 342px;
+  width: 728px;
+}
+
+.tabletbasiccomponentspopoverlist .group-12-5gNfw5 {
+  background-color: transparent;
+  height: 370px;
+  left: 1140px;
+  position: absolute;
+  top: 582px;
+  width: 680px;
+}
+
+.tabletbasiccomponentspopoverlist .group-21-5gNfw5 {
+  background-color: transparent;
+  height: 140px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.tabletbasiccomponentspopoverlist .group-20-AWxG6g {
+  background-color: transparent;
+  height: 84px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tabletbasiccomponentspopoverlist .table-guide-text1line-wCkoCS {
+  left: 0px;
+  width: 50px;
+}
+
+.tabletbasiccomponentspopoverlist .table-guide-text1line_mint-wCkoCS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 84px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletbasiccomponentspopoverlist .table-guide-text1line-VpLv3h {
+  left: 410px;
+  width: 270px;
+}
+
+.tabletbasiccomponentspopoverlist .table-guide-title-AWxG6g {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.tabletbasiccomponentspopoverlist .group-13-5gNfw5 {
+  background-color: transparent;
+  height: 140px;
+  left: 1140px;
+  position: absolute;
+  top: 1984px;
+  width: 680px;
+}
+
+.tabletbasiccomponentspopoverlist .table-guide-text1line-copy-2-dTqY34 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 50px;
+}
+
+.tabletbasiccomponentspopoverlist .table-guide-text1line-copy-dTqY34 {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 56px;
+  width: 270px;
+}
+
+.tabletbasiccomponentspopoverlist .table-guide-text1line_mint-copy-dTqY34 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 84px;
+  left: 60px;
+  position: absolute;
+  top: 56px;
+  width: 340px;
+}
+
+.tabletbasiccomponentspopoverlist .table-guide-title-copy-dTqY34 {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.tabletbasiccomponentspopoverlist .web-sub_-title-5gNfw5 {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.tabletbasiccomponentspopoverlist .web-title-area-5gNfw5 {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.tabletbasiccomponentspopoverlist .web-tabc2-c_-overview-5gNfw5 {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.tabletbasiccomponentspopoverlist .x3rd-depth-EOiMjt {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.tabletbasiccomponentspopoverlist .tab-EOiMjt {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.tabletbasiccomponentspopoverlist .dropdown-list-_-basi-copy-XtHgzt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 129px;
+}
+
+.tabletbasiccomponentspopoverlist .basic-copy-XtHgzt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 31px;
+}
+
+.tabletbasiccomponentspopoverlist .title-copy-XtHgzt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 26px;
+}
+
+.tabletbasiccomponentspopoverlist .button-copy-XtHgzt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 41px;
+}
+
+.tabletbasiccomponentspopoverlist .list-with-button-XtHgzt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.tabletbasiccomponentspopoverlist .lnb-service-feature-5gNfw5 {
+  background-color: transparent;
+  height: 983px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletbasiccomponentspopoverlist .rectangle-UJx9zx {
+  background-color: var(--concrete);
+  height: 983px;
+  width: 320px;
+}
+
+.tabletbasiccomponentspopoverlist .line-UJx9zx {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.tabletbasiccomponentspopoverlist .home-net-gui-guidelin-UJx9zx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup9 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup9 .web-index-title-reference-copy-2-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .group-mvXsqV {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-title-reference-copy-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .group-copy-mvXsqV {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-title-reference-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .group-copy-2-mvXsqV {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-title-reference-copy-3-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-3-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-2-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-8-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-7-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-9-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-10-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-11-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-4-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-5-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-6-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.tabletbasiccomponentspopoverlist .webgnb-5gNfw5 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletbasiccomponentspopoverlist .rectangle-y52fSD {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.tabletbasiccomponentspopoverlist .background-y52fSD {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletbasiccomponentspopoverlist .index-y52fSD {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.tabletbasiccomponentspopoverlist .web-index-select-awUkBz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.tabletbasiccomponentspopoverlist .web-index-unselect-awUkBz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.tabletbasiccomponentspopoverlist .web-index-unelect_main-y52fSD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletbasiccomponentspopoverlist .logo-QxY0AP {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletbasiccomponentspopoverlist .table-guide-text1line {
+  background-color: transparent;
+  height: 37px;
+  position: absolute;
+  top: 0px;
+}

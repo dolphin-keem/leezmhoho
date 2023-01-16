@@ -1,0 +1,323 @@
+/* screen - coreappcoreappmenutabhowtouse */
+
+.coreappcoreappmenutabhowtouse {
+  background-color: var(--white);
+  height: 1288px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.coreappcoreappmenutabhowtouse .group-13-fj9bmv {
+  background-color: transparent;
+  height: 804px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.coreappcoreappmenutabhowtouse .web-title-area-fj9bmv {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.coreappcoreappmenutabhowtouse .web-tabc2-c_re_popup-fj9bmv {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.coreappcoreappmenutabhowtouse .rectangle-xYxDU4 {
+  background-color: var(--white);
+  height: 47px;
+  width: 1600px;
+}
+
+.coreappcoreappmenutabhowtouse .x3rd-depth-xYxDU4 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.coreappcoreappmenutabhowtouse .tab-Fq0TrF {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.coreappcoreappmenutabhowtouse .flow-Txq0R8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 29px;
+}
+
+.coreappcoreappmenutabhowtouse .how-to-use-Txq0R8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 68px;
+}
+
+.coreappcoreappmenutabhowtouse .smart-apartment-serv-Txq0R8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 155px;
+}
+
+.coreappcoreappmenutabhowtouse .lnb-service-feature-fj9bmv {
+  background-color: transparent;
+  height: 891px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.coreappcoreappmenutabhowtouse .rectangle-1WsXRC {
+  background-color: var(--concrete);
+  height: 891px;
+  width: 320px;
+}
+
+.coreappcoreappmenutabhowtouse .line-1WsXRC {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.coreappcoreappmenutabhowtouse .home-net-gui-guidelin-1WsXRC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup6 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup6 .web-index-title-reference-copy-2-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .group-zm0cTg {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .empty-vqP8b5 {
+  bottom: 0px;
+}
+
+.stackedgroup6 .empty-xo3Tn7 {
+  top: 0px;
+}
+
+.stackedgroup6 .web-index-title-reference-copy-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .group-copy-zm0cTg {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .empty-gUs2DO {
+  bottom: 0px;
+}
+
+.stackedgroup6 .empty-lyCcoW {
+  top: 0px;
+}
+
+.stackedgroup6 .web-index-title-reference-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-contents1dpeth_close-copy-2-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-contents1dpeth_open_selected-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .group-copy-2-zm0cTg {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .empty-FWSGoV {
+  bottom: 0px;
+}
+
+.stackedgroup6 .empty-4wo2LP {
+  top: 0px;
+}
+
+.stackedgroup6 .web-index-title-reference-copy-3-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.coreappcoreappmenutabhowtouse .webgnb-fj9bmv {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.coreappcoreappmenutabhowtouse .rectangle-lI9xTK {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.coreappcoreappmenutabhowtouse .background-lI9xTK {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.coreappcoreappmenutabhowtouse .index-lI9xTK {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.coreappcoreappmenutabhowtouse .web-index-select-tsxqxB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.coreappcoreappmenutabhowtouse .web-index-unselect-tsxqxB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.coreappcoreappmenutabhowtouse .web-index-unelect_main-lI9xTK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.coreappcoreappmenutabhowtouse .logo-k951wx {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}

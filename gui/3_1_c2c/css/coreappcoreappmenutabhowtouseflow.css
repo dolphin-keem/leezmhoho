@@ -1,0 +1,323 @@
+/* screen - coreappcoreappmenutabhowtouseflow */
+
+.coreappcoreappmenutabhowtouseflow {
+  background-color: var(--white);
+  height: 1361px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.coreappcoreappmenutabhowtouseflow .group-5-EXOYAH {
+  background-color: transparent;
+  height: 877px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.coreappcoreappmenutabhowtouseflow .web-title-area-EXOYAH {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.coreappcoreappmenutabhowtouseflow .web-tabc2-c_re_popup-EXOYAH {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.coreappcoreappmenutabhowtouseflow .rectangle-XFIAkr {
+  background-color: var(--white);
+  height: 47px;
+  width: 1600px;
+}
+
+.coreappcoreappmenutabhowtouseflow .x3rd-depth-XFIAkr {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.coreappcoreappmenutabhowtouseflow .tab-xBNN1K {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.coreappcoreappmenutabhowtouseflow .flow-0bzKtm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 30px;
+}
+
+.coreappcoreappmenutabhowtouseflow .how-to-use-0bzKtm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 68px;
+}
+
+.coreappcoreappmenutabhowtouseflow .smart-apartment-serv-0bzKtm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 155px;
+}
+
+.coreappcoreappmenutabhowtouseflow .lnb-service-feature-EXOYAH {
+  background-color: transparent;
+  height: 891px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.coreappcoreappmenutabhowtouseflow .rectangle-dXDG8W {
+  background-color: var(--concrete);
+  height: 891px;
+  width: 320px;
+}
+
+.coreappcoreappmenutabhowtouseflow .line-dXDG8W {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.coreappcoreappmenutabhowtouseflow .home-net-gui-guidelin-dXDG8W {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup36 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup36 .web-index-title-reference-copy-2-Z6FS1m {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup36 .group-Z6FS1m {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup36 .empty-004NOb {
+  bottom: 0px;
+}
+
+.stackedgroup36 .empty-9tgrXm {
+  top: 0px;
+}
+
+.stackedgroup36 .web-index-title-reference-copy-Z6FS1m {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup36 .group-copy-Z6FS1m {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup36 .empty-Fn1CLq {
+  bottom: 0px;
+}
+
+.stackedgroup36 .empty-KSCW6K {
+  top: 0px;
+}
+
+.stackedgroup36 .web-index-title-reference-Z6FS1m {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup36 .web-index-contents1dpeth_close-copy-2-Z6FS1m {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup36 .web-index-contents1dpeth_open_selected-Z6FS1m {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup36 .group-copy-2-Z6FS1m {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup36 .empty-jAIN97 {
+  bottom: 0px;
+}
+
+.stackedgroup36 .empty-dxxqeB {
+  top: 0px;
+}
+
+.stackedgroup36 .web-index-title-reference-copy-3-Z6FS1m {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.coreappcoreappmenutabhowtouseflow .webgnb-EXOYAH {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.coreappcoreappmenutabhowtouseflow .rectangle-iXaXiS {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.coreappcoreappmenutabhowtouseflow .background-iXaXiS {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.coreappcoreappmenutabhowtouseflow .index-iXaXiS {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.coreappcoreappmenutabhowtouseflow .web-index-select-sMlssn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.coreappcoreappmenutabhowtouseflow .web-index-unselect-sMlssn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.coreappcoreappmenutabhowtouseflow .web-index-unelect_main-iXaXiS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.coreappcoreappmenutabhowtouseflow .logo-UFuavt {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}

@@ -1,0 +1,569 @@
+/* screen - tabletservicepluinliveviewflowhomescreen */
+
+.tabletservicepluinliveviewflowhomescreen {
+  background-color: var(--white);
+  height: 1323px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .group-8-eOBRIi {
+  background-color: transparent;
+  height: 791px;
+  left: 320px;
+  position: absolute;
+  top: 331px;
+  width: 1600px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .web-title-area-eOBRIi {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .web-tabtablet_service-plug-in-live-view-eOBRIi {
+  background-color: transparent;
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .rectangle-DtWxKk {
+  background-color: var(--white);
+  height: 94px;
+  width: 1600px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .x3rd-depth-copy-DtWxKk {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .incoming-call_-flow_m-DtWxKk {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 507px;
+  position: absolute;
+  top: 0px;
+  width: 250px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .flow_-front-door-DtWxKk {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 807px;
+  position: absolute;
+  top: 0px;
+  width: 104px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .flow_-back-key-DtWxKk {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 1129px;
+  position: absolute;
+  top: 0px;
+  width: 92px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .flow_-home-screen-DtWxKk {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 961px;
+  position: absolute;
+  top: 0px;
+  width: 119px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .tab-copy-DtWxKk {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.tabletservicepluinliveviewflowhomescreen .live-view_-feature_-ca-931ljl {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 148px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .live-view_-feature_-po-931ljl {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 159px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .x3rd-depth-copy-2-DtWxKk {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 47px;
+  width: 1600px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .feature_-main-entranc-LtKH0M {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 331px;
+  position: absolute;
+  top: 0px;
+  width: 176px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .feature_-basic_layout-LtKH0M {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: 181px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .feature_-front-door-LtKH0M {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 557px;
+  position: absolute;
+  top: 0px;
+  width: 121px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .feature_-call-end-LtKH0M {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 728px;
+  position: absolute;
+  top: 0px;
+  width: 105px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .feature_-back-key-LtKH0M {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 883px;
+  position: absolute;
+  top: 0px;
+  width: 110px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .feature_-exceptional-LtKH0M {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 1043px;
+  position: absolute;
+  top: 0px;
+  width: 160px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .lnbtablet_serviceplugin-eOBRIi {
+  background-color: transparent;
+  height: 1351px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .rectangle-EFNKP8 {
+  background-color: var(--concrete);
+  height: 1351px;
+  width: 320px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .line-EFNKP8 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .home-net-gui-guidelin-EFNKP8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup25 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup25 .web-index-title-reference-copy-2-rRHxWQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup25 .group-rRHxWQ {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup25 .web-index-title-reference-copy-rRHxWQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup25 .group-copy-rRHxWQ {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup25 .web-index-title-reference-rRHxWQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup25 .group-copy-2-rRHxWQ {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup25 .web-index-title-reference-copy-3-rRHxWQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup25 .web-index-contents2dpeth-copy-3-rRHxWQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup25 .web-index-contents2dpeth-copy-2-rRHxWQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup25 .web-index-contents2dpeth-copy-rRHxWQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup25 .web-index-contents2dpeth-copy-4-rRHxWQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup25 .web-index-contents2dpeth-copy-5-rRHxWQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup25 .web-index-contents2dpeth-copy-6-rRHxWQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup25 .web-index-contents2dpeth-copy-16-rRHxWQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup25 .web-index-contents2dpeth-copy-15-rRHxWQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup25 .web-index-contents2dpeth-copy-14-rRHxWQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup25 .web-index-contents2dpeth-copy-13-rRHxWQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup25 .web-index-contents2dpeth-copy-12-rRHxWQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup25 .web-index-contents2dpeth-copy-11-rRHxWQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup25 .web-index-contents2dpeth-copy-10-rRHxWQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup25 .web-index-contents2dpeth-copy-18-rRHxWQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup25 .web-index-contents2dpeth-copy-17-rRHxWQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup25 .web-index-contents2dpeth-copy-19-rRHxWQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup25 .web-index-contents2dpeth-copy-21-rRHxWQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup25 .web-index-contents2dpeth-copy-20-rRHxWQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup25 .web-index-contents2dpeth-copy-22-rRHxWQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.tabletservicepluinliveviewflowhomescreen .webgnb-eOBRIi {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .rectangle-myJp8D {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .background-myJp8D {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .index-myJp8D {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .web-index-select-uLVtFy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .web-index-unselect-uLVtFy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .web-index-unelect_main-myJp8D {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinliveviewflowhomescreen .logo-atlmnl {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}

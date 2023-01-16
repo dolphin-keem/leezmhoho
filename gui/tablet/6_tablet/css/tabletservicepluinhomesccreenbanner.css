@@ -1,0 +1,822 @@
+/* screen - tabletservicepluinhomesccreenbanner */
+
+.tabletservicepluinhomesccreenbanner {
+  background-color: var(--white);
+  height: 2031px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletservicepluinhomesccreenbanner .group-4-7YqUaS {
+  background-color: transparent;
+  height: 538px;
+  left: 400px;
+  position: absolute;
+  top: 1293px;
+  width: 740px;
+}
+
+.tabletservicepluinhomesccreenbanner .group-2-7YqUaS {
+  background-color: transparent;
+  height: 778px;
+  left: 400px;
+  position: absolute;
+  top: 342px;
+  width: 690px;
+}
+
+.tabletservicepluinhomesccreenbanner .group-13-7YqUaS {
+  background-color: transparent;
+  height: 461px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.tabletservicepluinhomesccreenbanner .table-guide-text1line-copy-7-HeMde6 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinhomesccreenbanner .table-guide-text1line-copy-12-HeMde6 {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletservicepluinhomesccreenbanner .table-guide-text1line-copy-13-HeMde6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 98px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinhomesccreenbanner .table-guide-text1line-copy-8-AyuaiX {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinhomesccreenbanner .table-guide-text1line-copy-14-AyuaiX {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletservicepluinhomesccreenbanner .table-guide-text1line-copy-17-AyuaiX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 99px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinhomesccreenbanner .table-guide-text1line-copy-9-OFz8br {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinhomesccreenbanner .table-guide-text1line-copy-15-OFz8br {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletservicepluinhomesccreenbanner .table-guide-text1line-copy-18-OFz8br {
+  background-color: transparent;
+  cursor: pointer;
+  height: 99px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinhomesccreenbanner .table-guide-text1line-copy-16-SDcbi6 {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletservicepluinhomesccreenbanner .table-guide-text1line-copy-19-SDcbi6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinhomesccreenbanner .table-guide-text1line-copy-10-SDcbi6 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinhomesccreenbanner .descriptiontabletop-copy-3-G5fQIS {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.tabletservicepluinhomesccreenbanner .group-13-copy-7YqUaS {
+  background-color: transparent;
+  height: 461px;
+  left: 1140px;
+  position: absolute;
+  top: 1293px;
+  width: 680px;
+}
+
+.tabletservicepluinhomesccreenbanner .table-guide-text1line-copy-11-KbcKst {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinhomesccreenbanner .table-guide-text1line-copy-20-KbcKst {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletservicepluinhomesccreenbanner .table-guide-text1line-copy-21-KbcKst {
+  background-color: transparent;
+  cursor: pointer;
+  height: 98px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinhomesccreenbanner .table-guide-text1line-copy-22-abtt4v {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinhomesccreenbanner .table-guide-text1line-copy-23-abtt4v {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletservicepluinhomesccreenbanner .table-guide-text1line-copy-24-abtt4v {
+  background-color: transparent;
+  cursor: pointer;
+  height: 99px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinhomesccreenbanner .table-guide-text1line-copy-25-UXkKlf {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinhomesccreenbanner .table-guide-text1line-copy-26-UXkKlf {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletservicepluinhomesccreenbanner .table-guide-text1line-copy-27-UXkKlf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 99px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinhomesccreenbanner .table-guide-text1line-copy-28-KLtj25 {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletservicepluinhomesccreenbanner .table-guide-text1line-copy-29-KLtj25 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinhomesccreenbanner .table-guide-text1line-copy-30-KLtj25 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinhomesccreenbanner .descriptiontabletop-copy-4-dhoFmN {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.tabletservicepluinhomesccreenbanner .web-sub_-title-7YqUaS {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.tabletservicepluinhomesccreenbanner .web-title-area-7YqUaS {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.tabletservicepluinhomesccreenbanner .web-tabtablet_service-plug-inhomescreen-7YqUaS {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.tabletservicepluinhomesccreenbanner .x3rd-depth-KEHJf9 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.tabletservicepluinhomesccreenbanner .tab-KEHJf9 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.tabletservicepluinhomesccreenbanner .feature-copy-4-2liLSh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 48px;
+}
+
+.tabletservicepluinhomesccreenbanner .feature-_-shortcut-2liLSh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 116px;
+}
+
+.tabletservicepluinhomesccreenbanner .banner_-2liLSh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 135px;
+}
+
+.tabletservicepluinhomesccreenbanner .more-2liLSh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 32px;
+}
+
+.tabletservicepluinhomesccreenbanner .more-_-edit-_-featur-copy-2liLSh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 133px;
+}
+
+.tabletservicepluinhomesccreenbanner .more-_-notifications-copy-2liLSh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 187px;
+}
+
+.tabletservicepluinhomesccreenbanner .more-_-help-guide-copy-2liLSh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 113px;
+}
+
+.tabletservicepluinhomesccreenbanner .service-feature-2liLSh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 96px;
+}
+
+.tabletservicepluinhomesccreenbanner .lnbtablet_serviceplugin-7YqUaS {
+  background-color: transparent;
+  height: 1351px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluinhomesccreenbanner .rectangle-y59dHX {
+  background-color: var(--concrete);
+  height: 1351px;
+  width: 320px;
+}
+
+.tabletservicepluinhomesccreenbanner .line-y59dHX {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.tabletservicepluinhomesccreenbanner .home-net-gui-guidelin-y59dHX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup29 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup29 .web-index-title-reference-copy-2-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .group-cvTi9E {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-title-reference-copy-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .group-copy-cvTi9E {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-title-reference-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .group-copy-2-cvTi9E {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-title-reference-copy-3-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-3-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-2-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-4-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-5-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-6-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-16-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-15-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-14-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-13-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-12-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-11-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-10-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-18-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-17-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-19-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-21-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-20-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-22-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.tabletservicepluinhomesccreenbanner .webgnb-7YqUaS {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluinhomesccreenbanner .rectangle-x2Qx9D {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.tabletservicepluinhomesccreenbanner .background-x2Qx9D {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluinhomesccreenbanner .index-x2Qx9D {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.tabletservicepluinhomesccreenbanner .web-index-select-aleHVM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.tabletservicepluinhomesccreenbanner .web-index-unselect-aleHVM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.tabletservicepluinhomesccreenbanner .web-index-unelect_main-x2Qx9D {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinhomesccreenbanner .logo-6R1NIV {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinhomesccreenbanner .group-10 {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  position: absolute;
+  top: 273px;
+  width: 680px;
+}
+
+.tabletservicepluinhomesccreenbanner .group-11 {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 382px;
+  width: 680px;
+}
+
+.tabletservicepluinhomesccreenbanner .group-12 {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  position: absolute;
+  top: 164px;
+  width: 680px;
+}
+
+.tabletservicepluinhomesccreenbanner .group-9 {
+  background-color: transparent;
+  height: 98px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}

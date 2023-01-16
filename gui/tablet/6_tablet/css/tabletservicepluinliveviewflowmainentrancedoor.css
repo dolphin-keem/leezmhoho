@@ -1,0 +1,587 @@
+/* screen - tabletservicepluinliveviewflowmainentrancedoor */
+
+.tabletservicepluinliveviewflowmainentrancedoor {
+  background-color: var(--white);
+  height: 2755px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .group-10-I5Y6jh {
+  background-color: transparent;
+  height: 622px;
+  left: 420px;
+  position: absolute;
+  top: 1161px;
+  width: 1400px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .group-13-I5Y6jh {
+  background-color: transparent;
+  height: 680px;
+  left: 320px;
+  position: absolute;
+  top: 331px;
+  width: 1600px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .group-7-I5Y6jh {
+  background-color: transparent;
+  height: 622px;
+  left: 420px;
+  position: absolute;
+  top: 1933px;
+  width: 1400px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .web-title-area-I5Y6jh {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .web-tabtablet_service-plug-in-live-view-I5Y6jh {
+  background-color: transparent;
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .rectangle-jyxMc7 {
+  background-color: var(--white);
+  height: 94px;
+  width: 1600px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .x3rd-depth-copy-jyxMc7 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .incoming-call_-flow_m-jyxMc7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 507px;
+  position: absolute;
+  top: 0px;
+  width: 251px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .flow_-front-door-jyxMc7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 807px;
+  position: absolute;
+  top: 0px;
+  width: 104px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .flow_-back-key-jyxMc7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 1129px;
+  position: absolute;
+  top: 0px;
+  width: 92px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .flow_-home-screen-jyxMc7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 961px;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .tab-copy-jyxMc7 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .live-view_-feature_-ca-xVssut {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 148px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .live-view_-feature_-po-xVssut {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 159px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .x3rd-depth-copy-2-jyxMc7 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 47px;
+  width: 1600px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .feature_-main-entranc-KA8nOc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 331px;
+  position: absolute;
+  top: 0px;
+  width: 176px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .feature_-basic_layout-KA8nOc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: 181px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .feature_-front-door-KA8nOc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 557px;
+  position: absolute;
+  top: 0px;
+  width: 121px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .feature_-call-end-KA8nOc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 728px;
+  position: absolute;
+  top: 0px;
+  width: 105px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .feature_-back-key-KA8nOc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 883px;
+  position: absolute;
+  top: 0px;
+  width: 110px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .feature_-exceptional-KA8nOc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 1043px;
+  position: absolute;
+  top: 0px;
+  width: 160px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .lnbtablet_serviceplugin-I5Y6jh {
+  background-color: transparent;
+  height: 1351px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .rectangle-xGSqCw {
+  background-color: var(--concrete);
+  height: 1351px;
+  width: 320px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .line-xGSqCw {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .home-net-gui-guidelin-xGSqCw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup9 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup9 .web-index-title-reference-copy-2-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .group-mvXsqV {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-title-reference-copy-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .group-copy-mvXsqV {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-title-reference-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .group-copy-2-mvXsqV {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-title-reference-copy-3-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-3-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-2-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-4-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-5-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-6-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-16-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-15-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-14-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-13-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-12-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-11-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-10-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-18-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-17-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-19-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-21-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-20-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup9 .web-index-contents2dpeth-copy-22-mvXsqV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .webgnb-I5Y6jh {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .rectangle-k6GcpD {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .background-k6GcpD {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .index-k6GcpD {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .web-index-select-npjqps {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .web-index-unselect-npjqps {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .web-index-unelect_main-k6GcpD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinliveviewflowmainentrancedoor .logo-8gVlF9 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}

@@ -1,0 +1,833 @@
+/* screen - tabletservicepluinvehicleparkinglocation */
+
+.tabletservicepluinvehicleparkinglocation {
+  background-color: var(--white);
+  height: 3223px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletservicepluinvehicleparkinglocation .group-13-5xSlRd {
+  background-color: transparent;
+  height: 223px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.tabletservicepluinvehicleparkinglocation .group-11-lZ4VuZ {
+  background-color: transparent;
+  height: 78px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tabletservicepluinvehicleparkinglocation .table-guide-text2line_m-copy-11-CsfKNr {
+  background-color: transparent;
+  height: 78px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinvehicleparkinglocation .table-guide-text1line-copy-14-CsfKNr {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinvehicleparkinglocation .table-guide-text1line-copy-6-CsfKNr {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletservicepluinvehicleparkinglocation .group-12-lZ4VuZ {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 144px;
+  width: 400px;
+}
+
+.tabletservicepluinvehicleparkinglocation .table-guide-text2line_m-copy-10-mnVYAm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinvehicleparkinglocation .table-guide-text1line-copy-13-mnVYAm {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinvehicleparkinglocation .descriptiontabletop-copy-3-lZ4VuZ {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.tabletservicepluinvehicleparkinglocation .group-21-5xSlRd {
+  background-color: transparent;
+  height: 113px;
+  left: 1140px;
+  position: absolute;
+  top: 1238px;
+  width: 680px;
+}
+
+.tabletservicepluinvehicleparkinglocation .group-14-zpDQOk {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tabletservicepluinvehicleparkinglocation .table-guide-text2line_m-copy-17-re4Mch {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinvehicleparkinglocation .table-guide-text1line-copy-28-re4Mch {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinvehicleparkinglocation .table-guide-text1line-copy-23-re4Mch {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletservicepluinvehicleparkinglocation .descriptiontabletop-copy-7-zpDQOk {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.tabletservicepluinvehicleparkinglocation .group-29-5xSlRd {
+  background-color: transparent;
+  height: 180px;
+  left: 1140px;
+  position: absolute;
+  top: 1894px;
+  width: 680px;
+}
+
+.tabletservicepluinvehicleparkinglocation .group-24-CDx6Qf {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tabletservicepluinvehicleparkinglocation .table-guide-text2line_m-copy-13-y7nsgT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinvehicleparkinglocation .table-guide-text1line-copy-17-y7nsgT {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinvehicleparkinglocation .table-guide-text1line-copy-10-y7nsgT {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletservicepluinvehicleparkinglocation .group-26-CDx6Qf {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 123px;
+  width: 680px;
+}
+
+.tabletservicepluinvehicleparkinglocation .table-guide-text2line_m-copy-12-TfT6d7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinvehicleparkinglocation .table-guide-text1line-copy-16-TfT6d7 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinvehicleparkinglocation .table-guide-text1line-copy-18-TfT6d7 {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletservicepluinvehicleparkinglocation .descriptiontabletop-copy-4-CDx6Qf {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.tabletservicepluinvehicleparkinglocation .group-32-5xSlRd {
+  background-color: transparent;
+  height: 180px;
+  left: 1140px;
+  position: absolute;
+  top: 2592px;
+  width: 680px;
+}
+
+.tabletservicepluinvehicleparkinglocation .group-30-CgARyN {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tabletservicepluinvehicleparkinglocation .table-guide-text2line_m-copy-18-LkREwk {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinvehicleparkinglocation .table-guide-text1line-copy-32-LkREwk {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinvehicleparkinglocation .table-guide-text1line-copy-29-LkREwk {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletservicepluinvehicleparkinglocation .group-31-CgARyN {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 123px;
+  width: 680px;
+}
+
+.tabletservicepluinvehicleparkinglocation .table-guide-text2line_m-copy-16-CnSsKW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinvehicleparkinglocation .table-guide-text1line-copy-31-CnSsKW {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinvehicleparkinglocation .table-guide-text1line-copy-27-CnSsKW {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletservicepluinvehicleparkinglocation .descriptiontabletop-copy-8-CgARyN {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.tabletservicepluinvehicleparkinglocation .group-20-5xSlRd {
+  background-color: transparent;
+  height: 431px;
+  left: 420px;
+  position: absolute;
+  top: 2592px;
+  width: 670px;
+}
+
+.tabletservicepluinvehicleparkinglocation .group-18-5xSlRd {
+  background-color: transparent;
+  height: 548px;
+  left: 419px;
+  position: absolute;
+  top: 1894px;
+  width: 670px;
+}
+
+.tabletservicepluinvehicleparkinglocation .group-15-5xSlRd {
+  background-color: transparent;
+  height: 746px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.tabletservicepluinvehicleparkinglocation .group-16-5xSlRd {
+  background-color: transparent;
+  height: 506px;
+  left: 420px;
+  position: absolute;
+  top: 1238px;
+  width: 640px;
+}
+
+.tabletservicepluinvehicleparkinglocation .web-sub_-title-5xSlRd {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.tabletservicepluinvehicleparkinglocation .web-title-area-5xSlRd {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.tabletservicepluinvehicleparkinglocation .web-tabtablet_service-plug-innotice-5xSlRd {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.tabletservicepluinvehicleparkinglocation .x3rd-depth-jnR08U {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.tabletservicepluinvehicleparkinglocation .tab-jnR08U {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.tabletservicepluinvehicleparkinglocation .feature-hY48SB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 48px;
+}
+
+.tabletservicepluinvehicleparkinglocation .tab-copy-jnR08U {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 198px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.tabletservicepluinvehicleparkinglocation .color-picker-uUrAme {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 73px;
+}
+
+.tabletservicepluinvehicleparkinglocation .parking-location-uUrAme {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 101px;
+}
+
+.tabletservicepluinvehicleparkinglocation .lnbtablet_serviceplugin-5xSlRd {
+  background-color: transparent;
+  height: 1351px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluinvehicleparkinglocation .rectangle-aKAFGT {
+  background-color: var(--concrete);
+  height: 1351px;
+  width: 320px;
+}
+
+.tabletservicepluinvehicleparkinglocation .line-aKAFGT {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.tabletservicepluinvehicleparkinglocation .home-net-gui-guidelin-aKAFGT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup30 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup30 .web-index-title-reference-copy-2-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .group-tjPgkd {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-title-reference-copy-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .group-copy-tjPgkd {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-title-reference-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .group-copy-2-tjPgkd {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-title-reference-copy-3-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents2dpeth-copy-3-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents2dpeth-copy-2-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents2dpeth-copy-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents2dpeth-copy-4-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents2dpeth-copy-5-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents2dpeth-copy-6-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents2dpeth-copy-16-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents2dpeth-copy-15-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents2dpeth-copy-14-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents2dpeth-copy-13-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents2dpeth-copy-12-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents2dpeth-copy-11-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents2dpeth-copy-10-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents2dpeth-copy-18-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents2dpeth-copy-17-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents2dpeth-copy-19-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents2dpeth-copy-21-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents2dpeth-copy-20-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents2dpeth-copy-22-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.tabletservicepluinvehicleparkinglocation .webgnb-5xSlRd {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluinvehicleparkinglocation .rectangle-EYY69w {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.tabletservicepluinvehicleparkinglocation .background-EYY69w {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluinvehicleparkinglocation .index-EYY69w {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.tabletservicepluinvehicleparkinglocation .web-index-select-yuTYsm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.tabletservicepluinvehicleparkinglocation .web-index-unselect-yuTYsm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.tabletservicepluinvehicleparkinglocation .web-index-unelect_main-EYY69w {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinvehicleparkinglocation .logo-hjYLUF {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}

@@ -1,0 +1,794 @@
+/* screen - tabletserviceplugintutorial */
+
+.tabletserviceplugintutorial {
+  background-color: var(--white);
+  height: 1894px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletserviceplugintutorial .group-8-a1G0mB {
+  background-color: transparent;
+  height: 506px;
+  left: 400px;
+  position: absolute;
+  top: 1188px;
+  width: 700px;
+}
+
+.tabletserviceplugintutorial .group-6-a1G0mB {
+  background-color: transparent;
+  height: 696px;
+  left: 400px;
+  position: absolute;
+  top: 342px;
+  width: 690px;
+}
+
+.tabletserviceplugintutorial .group-10-a1G0mB {
+  background-color: transparent;
+  height: 402px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.tabletserviceplugintutorial .group-4-LpooqM {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-blA0lw {
+  left: 0px;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-y0YCil {
+  left: 410px;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .table-guide-text2line_m-blA0lw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .group-3-LpooqM {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 145px;
+  width: 680px;
+}
+
+.tabletserviceplugintutorial .table-guide-text2line_m-copy-YcztF6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-YcztF6 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-2-YcztF6 {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .group-2-LpooqM {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 234px;
+  width: 680px;
+}
+
+.tabletserviceplugintutorial .table-guide-text2line_m-copy-2-rlZhE6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-3-rlZhE6 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-4-rlZhE6 {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .group-LpooqM {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 323px;
+  width: 680px;
+}
+
+.tabletserviceplugintutorial .table-guide-text2line_m-copy-3-pvrJbE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-5-pvrJbE {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-6-pvrJbE {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .descriptiontabletop-LpooqM {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.tabletserviceplugintutorial .group-9-a1G0mB {
+  background-color: transparent;
+  height: 402px;
+  left: 1140px;
+  position: absolute;
+  top: 1188px;
+  width: 680px;
+}
+
+.tabletserviceplugintutorial .group-4-copy-2-Z48iQB {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-21-g9vOIO {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-22-g9vOIO {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .table-guide-text2line_m-copy-11-g9vOIO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .group-3-copy-2-Z48iQB {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 145px;
+  width: 680px;
+}
+
+.tabletserviceplugintutorial .table-guide-text2line_m-copy-10-qJo6Yb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-19-qJo6Yb {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-20-qJo6Yb {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .group-2-copy-2-Z48iQB {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 234px;
+  width: 680px;
+}
+
+.tabletserviceplugintutorial .table-guide-text2line_m-copy-9-C6GFPr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-17-C6GFPr {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-18-C6GFPr {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .group-copy-2-Z48iQB {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 323px;
+  width: 680px;
+}
+
+.tabletserviceplugintutorial .table-guide-text2line_m-copy-8-Y3guHY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-15-Y3guHY {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-16-Y3guHY {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .descriptiontabletop-copy-2-Z48iQB {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.tabletserviceplugintutorial .web-sub_-title-a1G0mB {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.tabletserviceplugintutorial .web-title-area-a1G0mB {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.tabletserviceplugintutorial .web-tabtablet_service-plug-in-tutorial-a1G0mB {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: absolute;
+  top: 187px;
+  width: 1600px;
+}
+
+.tabletserviceplugintutorial .x3rd-depth-lyYY8v {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.tabletserviceplugintutorial .tab-lyYY8v {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.tabletserviceplugintutorial .service-introduction-sbMpxS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 268px;
+}
+
+.tabletserviceplugintutorial .lnbtablet_serviceplugin-a1G0mB {
+  background-color: transparent;
+  height: 1351px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletserviceplugintutorial .rectangle-T6Y9PV {
+  background-color: var(--concrete);
+  height: 1351px;
+  width: 320px;
+}
+
+.tabletserviceplugintutorial .line-T6Y9PV {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.tabletserviceplugintutorial .home-net-gui-guidelin-T6Y9PV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup35 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup35 .web-index-title-reference-copy-2-eMcu0i {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup35 .group-eMcu0i {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup35 .web-index-title-reference-copy-eMcu0i {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup35 .group-copy-eMcu0i {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup35 .web-index-title-reference-eMcu0i {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup35 .group-copy-2-eMcu0i {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup35 .web-index-title-reference-copy-3-eMcu0i {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup35 .web-index-contents2dpeth-copy-3-eMcu0i {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup35 .web-index-contents2dpeth-copy-2-eMcu0i {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup35 .web-index-contents2dpeth-copy-eMcu0i {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup35 .web-index-contents2dpeth-copy-4-eMcu0i {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup35 .web-index-contents2dpeth-copy-5-eMcu0i {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup35 .web-index-contents2dpeth-copy-6-eMcu0i {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup35 .web-index-contents2dpeth-copy-16-eMcu0i {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup35 .web-index-contents2dpeth-copy-15-eMcu0i {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup35 .web-index-contents2dpeth-copy-14-eMcu0i {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup35 .web-index-contents2dpeth-copy-13-eMcu0i {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup35 .web-index-contents2dpeth-copy-12-eMcu0i {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup35 .web-index-contents2dpeth-copy-11-eMcu0i {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup35 .web-index-contents2dpeth-copy-10-eMcu0i {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup35 .web-index-contents2dpeth-copy-18-eMcu0i {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup35 .web-index-contents2dpeth-copy-17-eMcu0i {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup35 .web-index-contents2dpeth-copy-19-eMcu0i {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup35 .web-index-contents2dpeth-copy-21-eMcu0i {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup35 .web-index-contents2dpeth-copy-20-eMcu0i {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup35 .web-index-contents2dpeth-copy-22-eMcu0i {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.tabletserviceplugintutorial .webgnb-a1G0mB {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletserviceplugintutorial .rectangle-l61alx {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.tabletserviceplugintutorial .background-l61alx {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletserviceplugintutorial .index-l61alx {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.tabletserviceplugintutorial .web-index-select-eip682 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.tabletserviceplugintutorial .web-index-unselect-eip682 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.tabletserviceplugintutorial .web-index-unelect_main-l61alx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .logo-ffaGgL {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line {
+  background-color: transparent;
+  height: 37px;
+  position: absolute;
+  top: 0px;
+}

@@ -1,0 +1,409 @@
+/* screen - coreapplifetabservicecardbasicprimarycolor */
+
+.coreapplifetabservicecardbasicprimarycolor {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .group-xwH2dx {
+  background-color: transparent;
+  height: 548px;
+  left: 320px;
+  position: absolute;
+  top: 338px;
+  width: 1600px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .web-title-area-xwH2dx {
+  background-color: transparent;
+  height: 224px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .web-tabc2-c_re_popup-xwH2dx {
+  background-color: transparent;
+  height: 100px;
+  left: 320px;
+  position: fixed;
+  top: 188px;
+  width: 1600px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .rectangle-hxya4Z {
+  background-color: var(--white);
+  height: 100px;
+  width: 1600px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .x3rd-depth-hxya4Z {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .layout-GhxHdG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 42px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .life-tab-GhxHdG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 47px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .service-card-health-GhxHdG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 112px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .basic-_-title-GhxHdG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 75px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .basic-_-page-indicat-GhxHdG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 136px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .basic-_-bg-copy-GhxHdG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 65px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .basic-_-primary-colo-GhxHdG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 132px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .x3rd-depth-copy-hxya4Z {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 53px;
+  width: 1600px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .basic-type-xcEYvK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 63px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .quick-link-type-copy-xcEYvK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 92px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .quick-link-type-_-se-xcEYvK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 265px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .quick-link-type-_-ic-xcEYvK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 135px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .banner-type-xcEYvK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 75px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .broken-token-xcEYvK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 83px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .lnb-service-feature-xwH2dx {
+  background-color: transparent;
+  height: 891px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .rectangle-GR3Hax {
+  background-color: var(--concrete);
+  height: 891px;
+  width: 320px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .line-GR3Hax {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .home-net-gui-guidelin-GR3Hax {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup45 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup45 .web-index-title-reference-copy-2-lbUP9J {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup45 .group-lbUP9J {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup45 .empty-AxGjU2 {
+  bottom: 0px;
+}
+
+.stackedgroup45 .empty-KwCCfP {
+  top: 0px;
+}
+
+.stackedgroup45 .web-index-title-reference-copy-lbUP9J {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup45 .group-copy-lbUP9J {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup45 .empty-s88oCi {
+  bottom: 0px;
+}
+
+.stackedgroup45 .empty-yAwsgf {
+  top: 0px;
+}
+
+.stackedgroup45 .web-index-title-reference-lbUP9J {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup45 .web-index-contents1dpeth_close-copy-2-lbUP9J {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup45 .web-index-contents1dpeth_open_selected-lbUP9J {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup45 .group-copy-2-lbUP9J {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup45 .empty-6RIuMb {
+  bottom: 0px;
+}
+
+.stackedgroup45 .empty-uzFHXd {
+  top: 0px;
+}
+
+.stackedgroup45 .web-index-title-reference-copy-3-lbUP9J {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .webgnb-xwH2dx {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .rectangle-jXBhHF {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .background-jXBhHF {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .index-jXBhHF {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .web-index-select-YzujnF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .web-index-unselect-YzujnF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .web-index-unelect_main-jXBhHF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.coreapplifetabservicecardbasicprimarycolor .logo-1Y5zCu {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}

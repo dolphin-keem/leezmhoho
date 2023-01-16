@@ -1,0 +1,706 @@
+/* screen - tabletservicepluinliveview */
+
+.tabletservicepluinliveview {
+  background-color: var(--white);
+  height: 2801px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletservicepluinliveview .group-10-2XwpuW {
+  background-color: transparent;
+  height: 1032px;
+  left: 420px;
+  position: absolute;
+  top: 389px;
+  width: 670px;
+}
+
+.tabletservicepluinliveview .group-8-2XwpuW {
+  background-color: transparent;
+  height: 1030px;
+  left: 420px;
+  position: absolute;
+  top: 1571px;
+  width: 680px;
+}
+
+.tabletservicepluinliveview .group-12-2XwpuW {
+  background-color: transparent;
+  height: 135px;
+  left: 1140px;
+  position: absolute;
+  top: 389px;
+  width: 680px;
+}
+
+.tabletservicepluinliveview .group-11-3hGG4S {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tabletservicepluinliveview .table-guide-text2line_m-copy-6-euv5tM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinliveview .table-guide-text1line-copy-8-euv5tM {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinliveview .table-guide-text1line-copy-euv5tM {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletservicepluinliveview .descriptiontabletop-copy-3hGG4S {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.tabletservicepluinliveview .group-14-2XwpuW {
+  background-color: transparent;
+  height: 135px;
+  left: 1140px;
+  position: absolute;
+  top: 1571px;
+  width: 680px;
+}
+
+.tabletservicepluinliveview .group-13-D8AESE {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tabletservicepluinliveview .table-guide-text2line_m-copy-7-gvBTCG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinliveview .table-guide-text1line-copy-7-gvBTCG {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletservicepluinliveview .table-guide-text1line-copy-24-gvBTCG {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinliveview .descriptiontabletop-copy-4-D8AESE {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.tabletservicepluinliveview .group-5-copy-6-2XwpuW {
+  background-color: transparent;
+  height: 24px;
+  left: 580px;
+  position: absolute;
+  top: 138px;
+  width: 76px;
+}
+
+.tabletservicepluinliveview .web-sub_-title-2XwpuW {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 331px;
+  width: 1600px;
+}
+
+.tabletservicepluinliveview .web-title-area-2XwpuW {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.tabletservicepluinliveview .web-tabtablet_service-plug-in-live-view-2XwpuW {
+  background-color: transparent;
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.tabletservicepluinliveview .rectangle-x0PKYq {
+  background-color: var(--white);
+  height: 94px;
+  width: 1600px;
+}
+
+.tabletservicepluinliveview .x3rd-depth-copy-x0PKYq {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.tabletservicepluinliveview .incoming-call_-flow_m-x0PKYq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 507px;
+  position: absolute;
+  top: 0px;
+  width: 250px;
+}
+
+.tabletservicepluinliveview .flow_-front-door-x0PKYq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 807px;
+  position: absolute;
+  top: 0px;
+  width: 104px;
+}
+
+.tabletservicepluinliveview .flow_-back-key-x0PKYq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 1129px;
+  position: absolute;
+  top: 0px;
+  width: 92px;
+}
+
+.tabletservicepluinliveview .flow_-home-screen-x0PKYq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 961px;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+
+.tabletservicepluinliveview .tab-copy-x0PKYq {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.tabletservicepluinliveview .live-view_-feature_-ca-zranLv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 149px;
+}
+
+.tabletservicepluinliveview .live-view_-feature_-po-zranLv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 159px;
+}
+
+.tabletservicepluinliveview .x3rd-depth-copy-2-x0PKYq {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 47px;
+  width: 1600px;
+}
+
+.tabletservicepluinliveview .feature_-main-entranc-CGg4Yx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 331px;
+  position: absolute;
+  top: 0px;
+  width: 176px;
+}
+
+.tabletservicepluinliveview .feature_-basic_layout-CGg4Yx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: 181px;
+}
+
+.tabletservicepluinliveview .feature_-front-door-CGg4Yx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 557px;
+  position: absolute;
+  top: 0px;
+  width: 121px;
+}
+
+.tabletservicepluinliveview .feature_-call-end-CGg4Yx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 728px;
+  position: absolute;
+  top: 0px;
+  width: 105px;
+}
+
+.tabletservicepluinliveview .feature_-back-key-CGg4Yx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 883px;
+  position: absolute;
+  top: 0px;
+  width: 110px;
+}
+
+.tabletservicepluinliveview .feature_-exceptional-CGg4Yx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 1043px;
+  position: absolute;
+  top: 0px;
+  width: 160px;
+}
+
+.tabletservicepluinliveview .lnbtablet_serviceplugin-2XwpuW {
+  background-color: transparent;
+  height: 1351px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluinliveview .rectangle-iVeKYb {
+  background-color: var(--concrete);
+  height: 1351px;
+  width: 320px;
+}
+
+.tabletservicepluinliveview .line-iVeKYb {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.tabletservicepluinliveview .home-net-gui-guidelin-iVeKYb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup33 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup33 .web-index-title-reference-copy-2-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .group-5M1lf4 {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .web-index-title-reference-copy-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .group-copy-5M1lf4 {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .web-index-title-reference-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .group-copy-2-5M1lf4 {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .web-index-title-reference-copy-3-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .web-index-contents2dpeth-copy-3-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .web-index-contents2dpeth-copy-2-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .web-index-contents2dpeth-copy-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .web-index-contents2dpeth-copy-4-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .web-index-contents2dpeth-copy-5-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .web-index-contents2dpeth-copy-6-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .web-index-contents2dpeth-copy-16-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .web-index-contents2dpeth-copy-15-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .web-index-contents2dpeth-copy-14-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .web-index-contents2dpeth-copy-13-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .web-index-contents2dpeth-copy-12-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .web-index-contents2dpeth-copy-11-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .web-index-contents2dpeth-copy-10-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .web-index-contents2dpeth-copy-18-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .web-index-contents2dpeth-copy-17-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .web-index-contents2dpeth-copy-19-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .web-index-contents2dpeth-copy-21-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .web-index-contents2dpeth-copy-20-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .web-index-contents2dpeth-copy-22-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.tabletservicepluinliveview .webgnb-2XwpuW {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluinliveview .rectangle-5qNzJm {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.tabletservicepluinliveview .background-5qNzJm {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluinliveview .index-5qNzJm {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.tabletservicepluinliveview .web-index-select-F3Ew49 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.tabletservicepluinliveview .web-index-unselect-F3Ew49 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.tabletservicepluinliveview .web-index-unelect_main-5qNzJm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinliveview .logo-Lzs98J {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}

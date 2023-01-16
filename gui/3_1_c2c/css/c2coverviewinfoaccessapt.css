@@ -1,0 +1,344 @@
+/* screen - c2coverviewinfoaccessapt */
+
+.c2coverviewinfoaccessapt {
+  background-color: var(--white);
+  height: 1287px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2coverviewinfoaccessapt .group-wdjbdc {
+  background-color: transparent;
+  height: 745px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1400px;
+}
+
+.c2coverviewinfoaccessapt .web-sub_-title-wdjbdc {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2coverviewinfoaccessapt .web-title-area-wdjbdc {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.c2coverviewinfoaccessapt .web-tabc2-c_-overview-wdjbdc {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.c2coverviewinfoaccessapt .x3rd-depth-fiPJ5x {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.c2coverviewinfoaccessapt .tab-fiPJ5x {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.c2coverviewinfoaccessapt .image-6x8qkL {
+  margin: 0;
+  width: 198px;
+}
+
+.c2coverviewinfoaccessapt .smart-apartment-6x8qkL {
+  width: 108px;
+}
+
+.c2coverviewinfoaccessapt .list-copy-6x8qkL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 23px;
+}
+
+.c2coverviewinfoaccessapt .smart-apartment_-card-copy-6x8qkL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 144px;
+}
+
+.c2coverviewinfoaccessapt .smart-apartment_-list-copy-6x8qkL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 139px;
+}
+
+.c2coverviewinfoaccessapt .smart-apartment-YIcoGD {
+  width: 187px;
+}
+
+.c2coverviewinfoaccessapt .image-YIcoGD {
+  margin: 0 0 0 50px;
+  width: 143px;
+}
+
+.c2coverviewinfoaccessapt .lnb-service-feature-wdjbdc {
+  background-color: transparent;
+  height: 891px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2coverviewinfoaccessapt .rectangle-LAmG0I {
+  background-color: var(--concrete);
+  height: 891px;
+  width: 320px;
+}
+
+.c2coverviewinfoaccessapt .line-LAmG0I {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2coverviewinfoaccessapt .home-net-gui-guidelin-LAmG0I {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup23 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup23 .web-index-title-reference-copy-2-HITWzo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup23 .group-HITWzo {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup23 .empty-vngADq {
+  bottom: 0px;
+}
+
+.stackedgroup23 .empty-0zM78R {
+  top: 0px;
+}
+
+.stackedgroup23 .web-index-title-reference-copy-HITWzo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup23 .group-copy-HITWzo {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup23 .empty-b1kx1D {
+  bottom: 0px;
+}
+
+.stackedgroup23 .empty-2JPz5S {
+  top: 0px;
+}
+
+.stackedgroup23 .web-index-title-reference-HITWzo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup23 .web-index-contents1dpeth_close-copy-2-HITWzo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup23 .web-index-contents1dpeth_open_selected-HITWzo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup23 .group-copy-2-HITWzo {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup23 .empty-ODAnxf {
+  bottom: 0px;
+}
+
+.stackedgroup23 .empty-xvgWhc {
+  top: 0px;
+}
+
+.stackedgroup23 .web-index-title-reference-copy-3-HITWzo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.c2coverviewinfoaccessapt .webgnb-wdjbdc {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2coverviewinfoaccessapt .rectangle-73D5NG {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.c2coverviewinfoaccessapt .background-73D5NG {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2coverviewinfoaccessapt .index-73D5NG {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.c2coverviewinfoaccessapt .web-index-select-RP6xdd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.c2coverviewinfoaccessapt .web-index-unselect-RP6xdd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.c2coverviewinfoaccessapt .web-index-unelect_main-73D5NG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.c2coverviewinfoaccessapt .logo-txG5Lx {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}

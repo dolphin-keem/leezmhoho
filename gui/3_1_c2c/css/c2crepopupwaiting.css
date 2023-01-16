@@ -1,0 +1,335 @@
+/* screen - c2crepopupwaiting */
+
+.c2crepopupwaiting {
+  background-color: var(--white);
+  height: 1685px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2crepopupwaiting .group-8-u3LCyn {
+  background-color: transparent;
+  height: 1143px;
+  left: 400px;
+  position: absolute;
+  top: 342px;
+  width: 690px;
+}
+
+.c2crepopupwaiting .group-5-u3LCyn {
+  background-color: transparent;
+  height: 231px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.c2crepopupwaiting .group-3-copy-u3LCyn {
+  background-color: transparent;
+  height: 93px;
+  left: 1140px;
+  position: absolute;
+  top: 673px;
+  width: 680px;
+}
+
+.c2crepopupwaiting .web-sub_-title-u3LCyn {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2crepopupwaiting .web-title-area-u3LCyn {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.c2crepopupwaiting .web-tabc2-c_re_popup-u3LCyn {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.c2crepopupwaiting .x3rd-depth-HDm9Y2 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.c2crepopupwaiting .tab-HDm9Y2 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.c2crepopupwaiting .waiting-in-ZvHB7P {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 255px;
+}
+
+.c2crepopupwaiting .image-ZvHB7P {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 64px;
+}
+
+.c2crepopupwaiting .lnb-service-feature-u3LCyn {
+  background-color: transparent;
+  height: 891px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2crepopupwaiting .rectangle-6yH7Wv {
+  background-color: var(--concrete);
+  height: 891px;
+  width: 320px;
+}
+
+.c2crepopupwaiting .line-6yH7Wv {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2crepopupwaiting .home-net-gui-guidelin-6yH7Wv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup37 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup37 .web-index-title-reference-copy-2-eRGhFg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup37 .group-eRGhFg {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup37 .empty-5AiKBk {
+  bottom: 0px;
+}
+
+.stackedgroup37 .empty-bn0OeK {
+  top: 0px;
+}
+
+.stackedgroup37 .web-index-title-reference-copy-eRGhFg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup37 .group-copy-eRGhFg {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup37 .empty-4z0Y1p {
+  bottom: 0px;
+}
+
+.stackedgroup37 .empty-fqL3pO {
+  top: 0px;
+}
+
+.stackedgroup37 .web-index-title-reference-eRGhFg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup37 .web-index-contents1dpeth_close-copy-2-eRGhFg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup37 .web-index-contents1dpeth_open_selected-eRGhFg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup37 .group-copy-2-eRGhFg {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup37 .empty-QrGR1L {
+  bottom: 0px;
+}
+
+.stackedgroup37 .empty-nPtSFv {
+  top: 0px;
+}
+
+.stackedgroup37 .web-index-title-reference-copy-3-eRGhFg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.c2crepopupwaiting .webgnb-u3LCyn {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2crepopupwaiting .rectangle-UiPTNu {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.c2crepopupwaiting .background-UiPTNu {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2crepopupwaiting .index-UiPTNu {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.c2crepopupwaiting .web-index-select-XgZ7mO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.c2crepopupwaiting .web-index-unselect-XgZ7mO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.c2crepopupwaiting .web-index-unelect_main-UiPTNu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.c2crepopupwaiting .logo-WsMM0e {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
